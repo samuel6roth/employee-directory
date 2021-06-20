@@ -6,8 +6,7 @@ const Header = () => {
     <header>
       <h1 className="text-center">Employee Directory</h1>
       <p className="text-center">
-        Click on column headers to filter by heading or use the search box to narrow
-        your results.
+       Personnel can be sorted by using the search bar or clicking on Name, Phone, Email, or DOB.
       </p>
     </header>
   );
